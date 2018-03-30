@@ -1,0 +1,15 @@
+body {
+    background: #686de0;
+    color: #fff
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    background: #30336b;
+    min-height: 400px;
+    padding: 40px;
+	box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.75);
+}
